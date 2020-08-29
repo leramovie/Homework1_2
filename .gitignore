@@ -1,0 +1,13 @@
+# Files
+Thumbs.db
+
+# Extension
+*.DS_Store
+
+
+# Suffixes
+*_old
+*_backup
+
+# Directory
+tmp/
